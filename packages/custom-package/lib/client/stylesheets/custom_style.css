@@ -7,17 +7,25 @@
 }
 
 .vote-actions {
-	margin-right: 10px;
+	margin-right: 20px;
+	min-width: 50px;
+	width: 50px;
 }
 
 .upvote {
-	border: 1px solid black;
+	border: 1px solid green;
 	padding: 5px;
 	text-align: center;
 }
 
-.upvote-link {
+.upvote-link, .downvote-link {
 	margin-right: 20px;
 }
 
+
+.comment-actions .upvote {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
 
