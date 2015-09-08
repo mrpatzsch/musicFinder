@@ -37,6 +37,7 @@ telescope:tags
 telescope:theme-base
 telescope:theme-hubble
 telescope:update-prompt
+fourseven:scss
 
 ############ Your Custom Packages ############
 
